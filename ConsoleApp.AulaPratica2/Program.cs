@@ -23,7 +23,6 @@ namespace ConsoleApp.AulaPratica2
             PraticaComFilasBoxing praticaComFilasBoxing = new PraticaComFilasBoxing();
             praticaComFilasBoxing.ExercicioBoxingFilas();
 
-
             Console.WriteLine("---------------------------------------");
             Console.WriteLine("Manipulando listas");
             Console.WriteLine("---------------------------------------");
